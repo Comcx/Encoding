@@ -1,0 +1,31 @@
+
+#import 'How to explain E words'
+
+agent			ag -ent				ag{to do}, <ent>{person}
+agile			ag -ile				<ile>{able}
+amateur			amat -eur			amat{to love}, <eur~er>{person}
+luxury			luxur -y			luxur{rich,great}
+accommodate		ac- com- mod -ate	<ac>{towards}, mod{mode}
+primary			pri- prim			{<pri>,prim}:{first,chief}
+restrain		re- strain			strain{pull tight}
+gossip			gos- -sip			<gos~god>, <sip>{sister}
+maintain		main tain			tain{to keep}
+define			de- fin -e			<de>{to strong}, fin{to confine}
+harmony			harm- -mony			<harm>{fitting}, <mony>{move//nate}
+arrogant		ar- rog -ant		<ar>{strong}, rog{ask}, <ant>//aate
+conceited		con- ceit -ed		ceit~cept{to take}
+ignite			ign -ite			ign{to fire}, <ite>//vate
+decent			dec- -ent			<dec>{willing}, <ent>//aate
+recipe			re- cip -e			cip{to take}
+authorize		auth-or -ize		auth{to increase}//author{beginner}
+genuine			genu -ine			genu{to generate}
+consensus		con- sens us		sens{sense}
+splash			splash				//auden
+represent		re- present			<re>//em
+hostile			host -ile			host{enemy}
+spontaneous
+spouse			spouse				spon{to promise,contract}
+
+
+
+
