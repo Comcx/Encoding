@@ -25,6 +25,73 @@ represent		re- present			<re>//em
 hostile			host -ile			host{enemy}
 spontaneous
 spouse			spouse				spon{to promise,contract}
+compliment		com- pli -ment		pli{{heavy}
+poverty			pover -ty			pover{}
+abstract		abs- tract			<abs>{to leave}, tract{to pull}
+ensue			en- -sue			<en>{get in}, <sue>{in order}
+cognitive		cogn -itive			cogn{know}
+notion			not -ion			not{know}, <ion>//nate
+lubricate		lubric -ate			lubric{to slip}
+sprinkle		spr inkle			spr~port{share}
+acute			ac- -ute			<ac>{sharp}, <ute>//aate
+compare			com- par -e			par{equal}
+pedestrian		ped -e- str -ian	ped{foot}, str~st~stat{stand}
+faculty			fac -ulty			fac~fact~fect{to do, make}
+biography		bio- graphy			<bio>{life}, graph{to write}
+squad			s- quad				<quad>{four}
+insect			in- sect			sect{to cut}
+proficency		pro- fic -ency		fic~fect~fact{to do}
+sentiment		sent -i- -ment		sent{sense}
+rectify			rect -ify			rect{straight}
+frequent		fquen -t			fquen{repeated, crowded}
+gigantic		gigant -ic			gigant~giant{large}
+orientate		orient -ate			<ori>{to east}
+huddle			hud	-le				hud~hide{to hide}
+breed
+finance			fin -ance			fin{finish, end}
+reconcile		re- con- -cile		con~com~co{together}
+fracture		fract -ure			fract~frag{to break}
+nutrition		nutri -tion			nutri{nutrition}
+contest			con- test			test{to witness}
+deviate			de- vi -ate			<de>{to depart}, vi{road}
+pamphlet
+discriminate	dis- crim -inate	crim{vice}
+rival			riv -al				riv{river}
+compete			com- pet -e			pet{to seek after}
+glamour			glamour				glamour~grammar
+grammar			gram- -mar			gram{to write, cut}
+nourish			nour -ish			nour~nurs{to feed}
+stab
+booth
+progress		pro- gress			press{to go}
+appendix		ap- pend -ix		<ap>{to strong}, pend{to hang}
+corrode			cor- rod -e			rod{to bite}
+complaint		com- plain -t		plain~plag{to knock, blow}
+propaganda		
+foam
+compose			com- pos -e			pos{to put}
+psychiatrist	psych -atrist		psych{nerve}
+intellectual	intel lect -ual		lect{select}
+presume			pre- sum -e			sum{to conclude}
+hurricane		
+entail			en- tail			tail{to cut}
+dodge			
+circus			circ -us			circ{circle}
+disguise		dis- guise			<dis>{to strong}, guise{to personate}
+stagger			sta- -gger
+embody			em- body			<em>{get in}
+previous		pre- vi -ous		<pre>{in advance}
+detach			de- tach			<de>{to put off}, tach{touch}
+
+
+
+
+
+
+
+
+
+
 
 
 
