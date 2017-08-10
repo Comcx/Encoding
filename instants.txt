@@ -82,6 +82,78 @@ stagger			sta- -gger
 embody			em- body			<em>{get in}
 previous		pre- vi -ous		<pre>{in advance}
 detach			de- tach			<de>{to put off}, tach{touch}
+accumulate		ac- cumul -ate		cumul{to save increments}
+plague			plag -ue			plag~pleg~plegia{to strike}
+hierarchy		hier arch -y		hier{holy}, arch{rule}
+radical			radi -cal			radi{light}
+essense			ess -ence			ess{to exist}
+caption			cap -tion			cap{to take}
+moral			mor -al				mor{moral}
+paste			past -e				past{dough}
+endow			en- dow				dow~do~don~dit{to give}
+narrative		
+spice
+institution		in- stitut -ion		stitut~stit{to set up}
+furniture		furn -i- -ure		furn{to provide}
+grim
+stall
+expose			ex- pos -e			pos{to put}
+prone			pro- -ne			
+staple
+startle			start -le			start{to begin or shock}, <le>{again and again}
+assign			as- sign			sign{to mark}
+relieve			re- liev			liev~lev{to raise|become lighter}
+conversion		con- vers -ion		vers{to convert}
+eloquent		e- loqu -ent		logu~dict{to speak}
+appease			ap- peas -e			peas~paci{to peace}
+stereo			stereo				stereo{solid | three-dimensional}
+option			opt -ion			opt{to select}
+stereotype		stereo type			
+stern			stern				stern{rigid}
+census			cens us				cens{to estimate}
+estimate		estim -ate			estim~esteem{value}
+glitter			gl- itter			<gl~cl~yell>{shine}
+lieutenant		lieu tenant			lieu{to replace}, tenant{owner, to possess}
+prospective		pro- spect -ive		spect{to watch}
+dismiss			dis- miss			<dis>{to part}, miss{to send}
+endurance		en- dur -ance		dur{to keep}
+conserve		con- serv -e		serv{to maintain} //link preserve, reserve
+expense			ex- pens -e			pens{cost}
+sticky			
+marsh			mar -sh				mar{sea | war}
+patron			patr -on			patr{father}
+dub
+community		com- muni -ty		muni{public}
+desire			
+dazzle			daz -z- -le			daze{to be vacant}
+heel
+dispatch		dis- patch			<dis>{to part}, patch{piece}
+flutter			flu -tter			flu{flow, wave}
+rash			ras -h				ras~rad~raz{to scratch}
+stitch			
+corpse			corp -se			corp{body}
+fiction			fic -t- -ion		fic~fac~fact~fect~fig{to do, make}
+bargain			
+aspiration		as- spir -ation		spir{to breathe}
+drawback		draw back			draw~stract
+toll
+correlate		cor- relate			relate{relative}
+sip
+clasp			cla -sp				cla{to press from both}
+efficient		ef- fic -i- -ent	<ef>{out}
+current			curr -ent			curr~cur~curs~cours{to run}
+religious		re- lig -i- -ous	lig~loy{to bind}
+extraordinary	extra- ordinary		<extra>{outside}
+drain
+confidence		con- fid -ence		fid{to believe}
+strain
+entrepreneur
+assault
+strand
+concise			con- cis -e			cis{to cut}
+strategy
+
+
 
 
 
