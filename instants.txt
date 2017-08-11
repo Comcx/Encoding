@@ -146,12 +146,41 @@ religious		re- lig -i- -ous	lig~loy{to bind}
 extraordinary	extra- ordinary		<extra>{outside}
 drain
 confidence		con- fid -ence		fid{to believe}
-strain
-entrepreneur
-assault
-strand
+strain			strain				strain~strict~string{to pull tightly}
+entrepreneur	entre- pren -eur	entre~enter{between, get in}, pris{to take}
+assault			as- sault			sault~sult{to leap}
+strand			
 concise			con- cis -e			cis{to cut}
-strategy
+strategy		
+denounce		de- nounce			<de>{get bad}, nounce{to report}
+catholic
+streak
+prelininary		pre- limin -ary		limin~lumin{light}
+property		proper -ty			proper~propri{to own}
+maneuver		maneu -ver			man~manu{hand}
+alleviate		al- lev -iate		lev{light, less weight}
+physiological	
+facet			fac -et				fac{surface}
+stride			strid -e			strid{to contend}
+contend			con- tend			tend~tent~tens{stretch, to tend}
+distinguish		di- sting -uish		sting{to stab}, <di>{to part}
+apparatus		ap- para -tus		para{to help}
+complex			com- plex			plex{to overlap}
+psychological
+deduce			de- duce			duce{to lead}
+critic			crit -ic			crit{to judge}
+levy			lev -y				lev{to raise}
+avoid
+disposition
+scheme
+periodical		period -ical		period
+exhaust
+object			ob- ject			<ob>{oppo}, ject{to throw}
+condemn			con- dem -n			dem{people}
+encounter		en- counter			counter{oppo}
+eligible		e- lig -ible		lig~lect{to select}
+
+
 
 
 
