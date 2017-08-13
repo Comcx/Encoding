@@ -179,7 +179,44 @@ object			ob- ject			<ob>{oppo}, ject{to throw}
 condemn			con- dem -n			dem{people}
 encounter		en- counter			counter{oppo}
 eligible		e- lig -ible		lig~lect{to select}
-
+engage			en- gag -e			gag~wed~wag{to promise}
+clan			
+expedition		ex- ped -ition		ped{foot}
+applaud			ap- plaud			plaud{clap}
+discreet		dis- creet			creet{to distinguish}
+grope								//to memory it, consider as g- rope
+legal			leg -al				leg{law}
+counterpart		counter part		counter{oppo}
+ascertain		as- cert -ain		cert{to make sure}
+certain			cert -ain			cert~cern~cret{to make sure}
+descend			de- scend			<de>{down}, scend{to climb}
+immigrant		im- migr -ant		migr{to migrate, move}
+priceless							//~invaluable
+audience		audi -ence			aud[i]{to hear}
+chronic			chron -ic			chron{time}
+elaborate		e- labor -ate		labor{to work}//work hard to make perfect
+retrospect		retro- spect		<retro>{backforward}, spect{to watch}
+strive
+cathedral
+stroke
+authority		auth -or -ity		auth~aug~aux{to increase}//author{the creator}
+likelihood		likeli -hood		hood{period, property}//nate
+commercial		com- merc -ial		merc~merch{trade}
+promote			pro- mot -e			mot{to move}
+stroll
+practicable		pract -ic -able		pract~prag~prax{deed, behaviour}
+challenge		
+stubborn		stub born			stub{stump}
+aggressive		ag- gress -ive		gress{to walk}
+beam
+axis
+lane
+mercury
+incline			in- cline			cline{to lean}
+analyze			ana lyze			ana{like}, lyze{to put}
+stumble			stum -ble			stum{stump}
+project			pro- ject			ject{to throw}
+feasible
 
 
 
