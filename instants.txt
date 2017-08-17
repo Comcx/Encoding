@@ -217,6 +217,59 @@ analyze			ana lyze			ana{like}, lyze{to put}
 stumble			stum -ble			stum{stump}
 project			pro- ject			ject{to throw}
 feasible
+vague			vag -ue				vagr?{to wander}
+pebble
+flip
+sequence		sequ -ence			[secut|sequ|su]{to follow}
+demonstrate		de- monstr -ate		monstr{to show}
+imply			im- ply				pl[ic|i|y]+{to overlap}
+definitive		de- fin -itive		fin{final}
+stump
+solicitor
+outrage			out rage
+stun								\\to remember, split to sun & t
+sturdy								\\to remember, split to study & r
+escort			es- cort			<es~ex>, cort{to correct}
+contend			con- tend			tend{to spread}
+commentary		comment -ary
+gracious		grac -ious			grac{grace}
+consequent		con- sequ -ent		sequ{to follow}
+intimate		
+subjective		subject -ive
+plead			
+imperial
+elite			e- lite				lite~lig{to select}
+intricate
+submarine		sub- marine			<sub>{under}, marine{of sea}
+liability
+bureaucracy		bureau cracy		bureau{department of goverment}, cracy{to rule}
+toil								~work
+poetry
+slash
+ambition		ambi -tion			ambi{two, both}
+reassure		
+abundance
+prosperous		
+submit			sub- mit			mit{to free}
+secure			se- cure			<se>{to part}, cur{to care for}
+quiver
+bowel
+subordinate		sub- ordin -ate		ordin{in order}
+junk
+consecutive		con- secut -ive		secut{to follow}
+subscribe		sub- scribe			scribe{to write}
+extinct			ex- tinct			tinct{to stab}
+cork
+glare
+credit			cred -it			cred{to believe}
+dilemma
+prominent		pro- min -ent		min{to stretch}
+insane
+magnitude		magn -itude			magn{large}
+hostage			host -age
+flank
+convene			con- veb -e			ven{to come}
+affiliate		
 
 
 
