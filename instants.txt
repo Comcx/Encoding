@@ -63,7 +63,7 @@ grammar			gram- -mar			gram{to write, cut}
 nourish			nour -ish			nour~nurs{to feed}
 stab
 booth
-progress		pro- gress			press{to go}
+progress		pro- gress			gress{to go}
 appendix		ap- pend -ix		<ap>{to strong}, pend{to hang}
 corrode			cor- rod -e			rod{to bite}
 complaint		com- plain -t		plain~plag{to knock, blow}
