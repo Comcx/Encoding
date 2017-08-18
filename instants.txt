@@ -211,12 +211,12 @@ aggressive		ag- gress -ive		gress{to walk}
 beam
 axis
 lane
-mercury
+mercury			merc -ury			merc~merch{trade}
 incline			in- cline			cline{to lean}
 analyze			ana lyze			ana{like}, lyze{to put}
 stumble			stum -ble			stum{stump}
 project			pro- ject			ject{to throw}
-feasible
+feasible		feas -iable			feas~fac{to do, make}
 vague			vag -ue				vagr?{to wander}
 pebble
 flip
@@ -225,7 +225,7 @@ demonstrate		de- monstr -ate		monstr{to show}
 imply			im- ply				pl[ic|i|y]+{to overlap}
 definitive		de- fin -itive		fin{final}
 stump
-solicitor
+solicitor		sol -i- cit -or		sol~solid~sold{firm}, cit{quote, call}
 outrage			out rage
 stun								\\to remember, split to sun & t
 sturdy								\\to remember, split to study & r
@@ -234,25 +234,26 @@ contend			con- tend			tend{to spread}
 commentary		comment -ary
 gracious		grac -ious			grac{grace}
 consequent		con- sequ -ent		sequ{to follow}
-intimate		
+intimate		intim -ate			intim{inmost, deep in mind}
 subjective		subject -ive
 plead			
-imperial
+imperial		imper -ial			imper~emper{to command, rule}
 elite			e- lite				lite~lig{to select}
-intricate
+intricate		in- tric -ate		tric{small obstacle}
+obstacle		ob- sta -cle		sta~st~stat{to stand}
 submarine		sub- marine			<sub>{under}, marine{of sea}
-liability
+liability							//from liable
 bureaucracy		bureau cracy		bureau{department of goverment}, cracy{to rule}
 toil								~work
 poetry
-slash
-ambition		ambi -tion			ambi{two, both}
-reassure		
-abundance
-prosperous		
+slash			
+ambition		ambi -tion			ambi{two, both}//to go outside to realize ambition
+reassure		re- as- sur -e		sur{to sure}
+abundance		ab- und -ance		und{wave}
+prosperous		pro- sper -ous		sper{hope}
 submit			sub- mit			mit{to free}
 secure			se- cure			<se>{to part}, cur{to care for}
-quiver
+quiver								auden
 bowel
 subordinate		sub- ordin -ate		ordin{in order}
 junk
@@ -264,12 +265,39 @@ glare
 credit			cred -it			cred{to believe}
 dilemma
 prominent		pro- min -ent		min{to stretch}
-insane
+insane			in- sane			sane~sanit{healthy}
 magnitude		magn -itude			magn{large}
 hostage			host -age
 flank
 convene			con- veb -e			ven{to come}
-affiliate		
+affiliate		af- fil -iable		fil~fili{child}
+grave			grav -e				grav~griev{heavy}
+scoundrel							
+disreputable	dis- re- put -able	put{to think}//repute{n, fame}
+scamper			s- camp -er			camp{field | place where war occur}
+shril								auden
+vengeance		venge -ance			venge{to punish}
+gratify			grat -ify			grat~gree{pleasing}
+slap								auden
+paroxysm		par oxy -sm			oxy~oxide{sharp, oxygen}
+antecedent		ante ced -ent		ante{the prior}, ced~ceed~cess{to go}
+inertia			in- ert -ia			ert{energy}
+subsequent		sub- sequ -ent		sequ{the following}
+reflect			re- flect			flect{to wind}
+slump								auden
+skull
+implication		im- pli -cation		pli{weigh}
+diligent		di- lig -ent
+cradle			
+adapt			ad- apt				apt{to fit, ability}
+erroneous		err one -ous		err{wander, mistake}
+subsidiary		sub- sid -iary		sid{to sit}
+benefit			bene fit			bene{good}
+subsidy			sub- sid -y
+fabric			fabr -ic			faber{to make}
+substance		sub- st -ance		st{stand}
+adjust			ad- just			just{justice}
+elegant			e- leg -ant			leg~lect~lig{to select}
 
 
 
