@@ -298,6 +298,15 @@ fabric			fabr -ic			faber{to make}
 substance		sub- st -ance		st{stand}
 adjust			ad- just			just{justice}
 elegant			e- leg -ant			leg~lect~lig{to select}
+discrete		dis- cret -e		cert~cern~cret{to sure | separate}
+separate		se- par -ate		<se>{to depart}, par{to get ready}
+skew
+corollary		coro -llary			coron{crown}
+urn
+parameter		para- meter			<para~par>{half, assist}, meter~meas{to measure}
+geometric		geo- metr -ic		<geo>{earth}, metr~mens~meter~meas{to measure}
+intuitive		in- tuit -ive		tuit~tut{protect}
+
 
 
 
