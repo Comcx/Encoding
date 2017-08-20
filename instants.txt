@@ -306,6 +306,67 @@ urn
 parameter		para- meter			<para~par>{half, assist}, meter~meas{to measure}
 geometric		geo- metr -ic		<geo>{earth}, metr~mens~meter~meas{to measure}
 intuitive		in- tuit -ive		tuit~tut{protect}
+momentous		moment -ous
+dumbfound		dumb found			dumb{speechless, too startle to say}
+stammer								auden
+vicinity		
+avail			a- vail				vail~val{strong, worth}
+ribbon
+meander
+penetrate		penetr -ate			penetr{to get into, put in}
+impart			im- part
+mew									auden
+basin			bas -in				bas~base{low}
+deliberate		de- liber -ate		liber~libr~liter~lev{auncel}
+tally			tall -y				tail{to cut}
+exultation		ex- ulta -tion		ult~ultra{beyond, super}
+trace			trac -t				trag~tract{to draw, pull out of}
+memoranda		memor -anda			memor{to memory}
+append			ap- pend			pend{to hang}
+ointment
+tangle
+edible			ed -ible			ed{to eat}
+collaboration	col- labor -ation	<col>{together}, labor{to work}
+abuse			ab- use				<ab>{get worse}
+distinct		di- stinct			stinct{to stab}
+economy			eco nomy			eco~ecu~oce{house, environment}, nomy~nom~nam{law}
+dock
+rim
+indifferent		in- differ -ent
+appraisal		ap- prais -al		prais~preci~pret~pric{value}
+administration	ad- ministr -ation	ministr{minister, to manage}
+collapse		col- lapse			lapse{to slip}
+instantaneous	instant -aneous		<aneous~aceous~acious>{//aate}
+commodity		com- mod -ity		mod{mode}
+affection		af- fect -ion		fec~fac~fact
+environment		en- viron -ment		viron~ver[st]*~vir{turn around}
+complicated		com- plic -ated		pli[c]*~ply{to weigh}
+evaluate		e- valu -ate		val[u]*{value}
+subtract		sub- tract
+suburb			sub- urb			urb{city}
+devote			de- vote			vote{to pledge}
+pledge
+cautious		cau -tious			cau~cou{to care}
+successive		suc- cess -ive		suc~sub
+marginal		margin -al
+clerk
+rein
+ozone
+successor
+decay
+neglect
+heap
+
+
+
+
+
+confidential
+
+
+
+
+
 
 
 
