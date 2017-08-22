@@ -349,39 +349,64 @@ pledge
 cautious		cau -tious			cau~cou{to care}
 successive		suc- cess -ive		suc~sub
 marginal		margin -al
-clerk
+clerk			
 rein
-ozone
-successor
-decay
-neglect
-heap
-
-
-
-
-
-confidential
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ozone			o- zone
+successor		suc- cess -or
+decay			de- cay				cay~cad~cas{to fall}
+neglect			neg- lect			<neg>{to deny}
+heap								//cs
+confidential	con- fid -ential	fid{to trust}
+strip			
+valence			val -ence			val{worth}
+deviation		de- vi -ation		vi{way}
+density			dens -ity			dens{to make thick}
+awkward			awk ward			awk{the wrong direction}, ward{to}
+analogous		ana- log -ous		<ana>{to put aside}, log~logu{to speak}
+crystal			cry st -al			cryo{cold}
+application		ap- pli -cation		pli~ply~plic{to overtap}
+modest			mod -est			mod{manner}
+resident		re- sid -ent		sid~sed~sess{to sit}//from reside
+orchestra		
+depict			de- pict			pict{to draw}//picture
+convention		con- vent -ion		vent{to come}
+association		
+contempt		con- tempt			tempt{small trial}
+condense		con- dens -e		dens{to make thick, density}
+fund
+extreme			extr- -eme			
+latitude
+hawk
+illustrate		il- lust -rate		<il~in~im>, lust~luc{light}
+mass
+suffice			suf- fice			fice{to make}
+moral			mor -al				mor{custom}
+discard			dis- card			card~chart{paper card}
+plunge
+explicit		ex- pli -cit		pli{weigh}
+slick			
+approve			ap- prove			prov~prob{to prove, test}
+prolong			pro- long			
+fundamental		
+quench
+lease
+sufficient
+revenue
+behave
+banquet
+divine
+donate
+longevity
+immune			im- mune			mune{public}
+destructive		de- struct -ive		struct{to struct}
+climate
+impact
+precedent		pre- ced -ent		ced~ceed{to forward}
+suite
+refrain			re- frain			frain{}
+skeptical
+defeat
+endure
+summit
+summon
+aggravate
