@@ -23,7 +23,7 @@ consensus		con- sens us		sens{sense}
 splash			splash				//auden
 represent		re- present			<re>//em
 hostile			host -ile			host{enemy}
-spontaneous
+spontaneous		spon -taneous		spon[ds]*{to promise, self will}
 spouse			spouse				spon{to promise,contract}
 compliment		com- pli -ment		pli{{heavy}
 poverty			pover -ty			pover{}
@@ -70,7 +70,7 @@ complaint		com- plain -t		plain~plag{to knock, blow}
 propaganda		
 foam
 compose			com- pos -e			pos{to put}
-psychiatrist	psych -atrist		psych{nerve}
+psychiatrist	psych -iatr -ist	psych{nerve}, iatr{healing}
 intellectual	intel lect -ual		lect{select}
 presume			pre- sum -e			sum{to conclude}
 hurricane		
@@ -410,3 +410,27 @@ endure
 summit
 summon
 aggravate
+afford			af- ford			ford{to go forward}
+paradise		para- dise			<para>{to protect}
+ponder			pond -er			pond~pend~pens{weigh}
+premier			prem -ier			prem~pri[mn]*{the first}
+severe			sever -e			sever{to cut}
+receipt			re- ceipt			ceipt{to take}
+comparable		com- par -able		par{equal}
+mourn			mourn				mourn{to grieve}
+grieve			griev -e			griev~grav{heavy}
+barricade		barr -ic -ade		barr{stick}, <ade>{thing}
+flare								auden
+costume
+
+
+
+
+
+
+
+
+
+
+
+
