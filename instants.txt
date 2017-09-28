@@ -423,7 +423,7 @@ barricade		barr -ic -ade		barr{stick}, <ade>{thing}
 flare								auden
 costume
 protocol		proto- col			proto{first, prior}, col~coll{glue}
-
+memo
 
 
 
