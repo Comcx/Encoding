@@ -424,6 +424,7 @@ flare								auden
 costume
 protocol		proto- col			proto{first, prior}, col~coll{glue}
 memo
+proton			prot -on			prot~proto{the first}, <on>//nate
 
 
 
