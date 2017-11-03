@@ -196,7 +196,7 @@ audience		audi -ence			aud[i]{to hear}
 chronic			chron -ic			chron{time}
 elaborate		e- labor -ate		labor{to work}//work hard to make perfect
 retrospect		retro- spect		<retro>{backforward}, spect{to watch}
-strive
+strive			striv -e			striv~strid~strif{to contend}
 cathedral
 stroke
 authority		auth -or -ity		auth~aug~aux{to increase}//author{the creator}
@@ -425,6 +425,26 @@ costume
 protocol		proto- col			proto{first, prior}, col~coll{glue}
 memo
 proton			prot -on			prot~proto{the first}, <on>//nate
+ambiguous		ambi- igu -ous		ambi{two side, around}
+obscure			ob- scu -re			<ob>{above something, opposite}, scu{to cover}
+fuse			fus -e				fus~fund~found{to pour}
+violent			viol -ent			viol{violence, strength}
+conscientious	con- sci -entious	sci{to know}
+portion			port -ion			port~part{part, divide}
+emanate			e- man -ate			<e>{out}, man{to flow out}
+insulator		insul -ator			insul~isol{island}
+thermal			therm -al			therm{heat}
+qualitative		quali -tative		qualify{get}
+neutral			neutr -al			neutr{middle}
+convey			con- vey			vey~vi~via~voy{way}
+dedicate		de- dic -ate		<de>{down}, dic~dict{to say}
+coefficient		co- efficient		<co>{emphasize}
+intrinsic		intrin sic			intrin{internal}, sic{follow, along}
+extrinsic		extrin sic			extrin{out}
+lattice			lattice				from 'lath'
+dope			dope				from 'dip'
+donor			don -or				do~don~dit~dot~dow{to give}
+polish			pol -ish			pol{smooth}, <ish>//vate
 
 
 
